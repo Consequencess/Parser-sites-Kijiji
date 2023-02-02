@@ -24,4 +24,4 @@
 
 Запусти проект командой
 
--       python main.py
+-       python3 main.py
