@@ -17,7 +17,7 @@
 
 - Установи зависимости из файла req.txt
 
--     pip3 install -r requirements.txt
+-     pip3 install -r req.txt
 
     
 - Переименуй env_example файл в файл .env и вставь свои значения
